@@ -1,1 +1,1 @@
-# Early-Crop-Detection-Using-Satellite-Timeseries-Data-
+# Early-Crop-Detection-Using-Satellite-Timeseries-Data
